@@ -1,0 +1,10 @@
+B1: vào Trang cá nhân --> Bạn bè --> mục Đang Theo Dõi 
+B2: Bấm F12 chọn thẻ Console
+B3 : Dán code này vào
+B4 : Lặp đi lặp lại chừng nào hết follow
+
+
+var sifahim100 = document.getElementsByClassName('_42ft _4jy0 _5lzl _4jy3 _517h _51sy');
+for(var i=0;i<sifahim100.length;i++)
+	sifahim100[i].click();
+alert('[sifahim100] '+sifahim100.length+' people are now unfollowed! >:) ');

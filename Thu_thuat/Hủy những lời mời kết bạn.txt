@@ -1,0 +1,6 @@
+Chia sẻ cho các bạn cách hủy những lời mời kết bạn mà trước giờ bạn gửi đi.
+B1: vào https://m.facebook.com/friends/center/requests/outgoing/#friends_center_main
+B2: Bấm F12 chọn thẻ Console
+B3 : Dán code này vào
+javascript:var x=document.getElementsByClassName("_55sr");for(var i=0;i<x.length;i++){if (x[i].innerHTML=='Hoàn tác'){x[i].click();}};
+B4 : Lặp lại 1 vài lần là hủy xong vài trăm lời mời rồi

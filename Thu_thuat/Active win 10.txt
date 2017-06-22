@@ -1,0 +1,6 @@
+slmgr /ipk PV3XJ-NX4F9-CM3QT-F3HTH-T29HD
+slmgr /skms kms.xspace.in
+slmgr /ato
+
+
+

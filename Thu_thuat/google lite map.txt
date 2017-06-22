@@ -1,0 +1,4 @@
+Mẹo: Nếu phiên bản Google Maps đầy đủ và sản phẩm hoạt động có vẻ chậm. Hãy thêm "?force=lite" vào cuối URL để kích hoạt chế độ Lite của Google Maps.
+Bản Full: https://maps.google.com/
+Bản Lite: https://www.google.com/maps/?force=lite
+Theo: https://support.google.com/maps/answer/3031966

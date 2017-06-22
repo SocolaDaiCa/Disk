@@ -1,0 +1,19 @@
+Nãy thấy có bác chia sẻ source code trò khủng long trên chrome thì em cũng chia sẻ cái cách hack điểm mà em sưu tầm được :
+- Đầu tiên các bác ngắt kết nối internet sau đó các bác truy cập vào trang web bất kì miễn sao nó ra cái con khủng long là được, 
+hoặc truy cập chrome://dino khỏi cần tắt mạng
+sau đó các bác nhấn tổ hợp phím " Ctrl + Shift + J " để hiển thị bản console cho phép chúng ta nhập dữ liệu, sau đó các bác copy đoạn javascript này 
+" Runner.prototype.gameOver = function(){console.log("SOMETEXT")} "
+dán vào rồi nhấn Enter, giờ chỉ việc tắt cái console kia đi và xem khủng long nó chạy như thế nào nhé =]]
+- À còn đoạn tăng tốc chạy này nữa 
+" Runner.instance_.setSpeed(10) " 
+Chúc các bác chơi game vui vẻ
+
+Cách troll bạn bè về số điểm Dinashor Chrome:
+B1: 
+Ngắt internet, nhấn F12, vào tab Console và gõ lệnh này:
+Runner.instance_.setSpeed(50000)
+Chạy đến khi số điểm vừa ý.
+B2:
+Gõ lệnh này tiếp:
+Runner.instance_.setSpeed(10)
+Cho mấy đứa bạn xem bạn chơi đến khi con khủng long chết!

@@ -1,0 +1,13 @@
+Sử dụng link mà bạn muốn fake 
+(VD: http://vnexpress.net/tin-tuc/phap-luat/nghi-pham-giet-6-nguoi-o-binh-phuoc-bi-hang-loat-tinh-tiet-tang-nang-3303152.html)
+
+Paste vào dòng trạng thái trên fb. Chuột phải vào hình ảnh phía dưới, chọn Inspect.
+Sẽ hiện thị lên tab hiển thị HTML của các element trong wed
+Kéo xuống tìm đến 2 thẻ Input giống với tiêu đề của link 
+(http://sv1.upsieutoc.com/2017/03/25/Untitledf04b9.jpg)
+Chỉnh sửa với nội dung bạn muốn.
+nếu chính tittle thì phải tìm tất cả các value của tittle để cùng sửa, tương tự với nội dung và ảnh, thì mới thành công
+Enjoy
+
+nguồn 
+https://fb.com/464727913859334

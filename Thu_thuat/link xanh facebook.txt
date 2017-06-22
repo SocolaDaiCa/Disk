@@ -1,0 +1,13 @@
+Hướng dẫn các bạn thủ thuật đăng status xanh trỏ về 1 trang cá nhận, group, hoặc 1 người nào đó.
+B1: các bạn đổi trang web sang chế độ điện thoại 
+https://www.facebook.com thành https://m.facebook.com
+
+B2: nhập dòng này vào status của bạn
+@@[0:[id facebook:1: Nhập nội dung bạn muốn ]]
+@[id facebook:0]
+
+vd: 
+@@[0:[364997627165697:1: Hello ]]
+@[364997627165697:0]
+
+B3: Nhấn đăng thôi :))
