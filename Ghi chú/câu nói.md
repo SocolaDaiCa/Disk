@@ -6,3 +6,5 @@
 Không nghe cave kể chuyện, không nghe con nghiện trình bày, không nghe thằng say chém gió..
 
 "Ngay cả những thằng ngu...cũng có những quy tắc và niềm kiêu hãnh của riêng mình
+
+Bạn có thể thay đổi việc mình là ai, mình đang ở đâu bằng cách thay đổi những gì bạn đưa vào trong tâm trí của mình – Zig Ziglar.
