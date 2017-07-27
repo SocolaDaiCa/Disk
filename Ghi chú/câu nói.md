@@ -8,3 +8,20 @@ Không nghe cave kể chuyện, không nghe con nghiện trình bày, không ngh
 "Ngay cả những thằng ngu...cũng có những quy tắc và niềm kiêu hãnh của riêng mình
 
 Bạn có thể thay đổi việc mình là ai, mình đang ở đâu bằng cách thay đổi những gì bạn đưa vào trong tâm trí của mình – Zig Ziglar.
+
+Khi muốn họ sẽ tìm cách
+Khi không muốn họ sẽ tìm lí do
+
+Albert Einstein đã từng nói "Nếu bạn không thể giải thích điều gì đó một cách đơn giản, thì bạn không thực sự hiểu rõ nó"
+
+Code: Nên test trước khi chạy show.
+
+Đời: Méo nên tin thằng nào cả.....
+
+1. Trăm năm Kiều vẫn là Kiều
+Trong code có bug là điều tất nhiên
+2. Trĩ là căn bệnh phổ biến.
+3. Kềm chế tức giận giúp ta tiết kiệm đc tiền sửa và mua máy.
+4. Nhìn code đoán tính cách.
+5. Cái gì dễ dàng quá, chắc chắn ko ổn.
+6. Luôn có thiên địch trong cuộc sống (tester) .....
